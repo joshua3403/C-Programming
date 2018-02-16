@@ -1,0 +1,2 @@
+﻿  Standard Exceptions.cpp
+c:\users\joshu\documents\visual studio 2017\projects\standard exceptions\standard exceptions\standard exceptions.cpp(15): error C2148: 배열의 전체 크기는 0x7fffffff바이트를 초과할 수 없습니다.
