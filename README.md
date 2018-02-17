@@ -11,3 +11,4 @@ Learn advanced C++ programming
  - Writing Text Files
  - Reading Text Files
  - Parsing Text Files
+ - Strucks and Padding (http://techlog.gurucat.net/109)
