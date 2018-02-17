@@ -8,4 +8,6 @@ Learn advanced C++ programming
  - Exception catch order
  
  # Files
- - Writing text files
+ - Writing Text Files
+ - Reading Text Files
+ - Parsing Text Files
