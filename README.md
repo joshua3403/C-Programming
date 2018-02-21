@@ -20,3 +20,4 @@ Learn advanced C++ programming
  - Two-Dimensional vectors(http://www.cplusplus.com/reference/iterator/)
  - Lists
  - Maps(http://www.cplusplus.com/reference/utility/pair/)
+ - Custom Objects as Map Values(http://thrillfighter.tistory.com/146)
