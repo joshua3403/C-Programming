@@ -25,3 +25,5 @@ Learn advanced C++ programming
  - Multimaps
  - Sets
  - Stacks and Queues
+ - Sorting Vectors,Deque and Friend
+ - STL Complex Data Types
