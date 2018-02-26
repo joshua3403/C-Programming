@@ -27,3 +27,7 @@ Learn advanced C++ programming
  - Stacks and Queues
  - Sorting Vectors,Deque and Friend
  - STL Complex Data Types
+
+# Operator Overloading
+ - Overloading the Assignment Operator
+ - Printing - Overloading Left Bit Shift
